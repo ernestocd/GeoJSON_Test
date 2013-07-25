@@ -1,0 +1,52 @@
+jsonp({"type":"FeatureCollection",
+"features":[
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-80.399775,26.100365]
+},
+"properties":
+{
+"markerid":"1",
+"markername":"Weston, FL",
+"basemap":"osm_mapnik",
+"lat":"26.100365",
+"lon":"-80.399775",
+"icon":"",
+"iconUrl":"http://www.urmaps.com/wp-content/plugins/leaflet-maps-marker/leaflet-dist/images/marker.png",
+"address":"Weston, FL",
+"text":"<a href='http://www.urmaps.com/wp-content/uploads/2013/07/l45601-origami-icon-38893.png'><img class=' wp-image-62 alignleft' alt='l45601-origami-icon-38893' src='http://www.urmaps.com/wp-content/uploads/2013/07/l45601-origami-icon-38893-300x293.png' width='300' height='293' /></a><br/><br/><span style='font-size: small;'>Call us for quotes!</span><br/><br/><span style='font-size: small;'>(787) 777-7777</span><div style='border-top:1px solid #f0f0e7;padding-top:5px;margin-top:5px;'>Weston, FL (<a href='http://maps.google.com/maps?daddr=Weston%2C+FL&t=m&layer=1&doflg=ptk&om=0' target='_blank' title='Get directions'>Directions</a>)</div>",
+"zoom":"12",
+"openpopup":"0",
+"mapwidth":"640",
+"mapwidthunit":"px",
+"mapheight":"480",
+"marker-createdby":"admin",
+"marker-createdon":"2013-07-25 01:52:39",
+"marker-updatedby":"admin",
+"marker-updatedon":"2013-07-25 02:04:48",
+"layerid":"0",
+"layername":"markers not assigned to a layer",
+"layer-createdby":"",
+"layer-createdon":"0000-00-00 00:00:00",
+"layer-updatedby":"",
+"layer-updatedon":"",
+"controlbox":"1",
+"overlays_custom":"0",
+"overlays_custom2":"0",
+"overlays_custom3":"0",
+"overlays_custom4":"0",
+"wms":"0",
+"wms2":"0",
+"wms3":"0",
+"wms4":"0",
+"wms5":"0",
+"wms6":"0",
+"wms7":"0",
+"wms8":"0",
+"wms9":"0",
+"wms10":"0",
+"kml_timestamp":""
+}}]});
